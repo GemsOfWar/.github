@@ -18,6 +18,10 @@ We assume you can already get the XML you need... if you have to ask, you're "no
 
 Your only clue is to find where the community "hangs out."
 
+## Warnings
+
+Just a bit of caution, here... there be dragons, here! And, you are *crunchy*, and taste good with ketchup.
+
 ### Credits
 
 For our community icon, we respectably thank the [Reddit Gems of War Community](https://www.reddit.com/r/GemsofWar/)
