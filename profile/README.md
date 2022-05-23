@@ -17,3 +17,7 @@ We assume you can already get the XML you need... if you have to ask, you're "no
 ## How do I get the XML?
 
 Your only clue is to find where the community "hangs out."
+
+### Credits
+
+For our community icon, we respectably thank the [Reddit Gems of War Community](https://www.reddit.com/r/GemsofWar/)
