@@ -10,8 +10,12 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-# Gems of War Enthiasts
+# Gems of War Enthusiasts
 
-This is a place for "entusiasts" to potentially contribute public code.
+This is a place for "enthusiasts" to potentially contribute public code.
 
 We assume you can already get the XML you need... if you have to ask, you're "not far enough," yet.
+
+## How do I get the XML?
+
+Your only clue is to find where the community "hangs out."
