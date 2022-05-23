@@ -20,7 +20,7 @@ Your only clue is to find where the community "hangs out."
 
 ## Warnings
 
-Just a bit of caution, here... there be dragons, here! And, you are *crunchy*, and taste good with ketchup.
+Just a word of caution... here be dragon! And, *you are* ***crunchy***, and taste good with ketchup.
 
 ### Credits
 
