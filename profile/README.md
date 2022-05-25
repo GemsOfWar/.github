@@ -10,18 +10,24 @@
 -->
 # Gems of War Enthusiasts 👋
 
-This is a place for "enthusiasts" to potentially contribute public code.
+This is a place for "enthusiasts" to potentially contribute public code for your [Gems of War](https://gemsofwar.com/) data.
 
-We assume you can already get the XML you need... if you have to ask, you're "not far enough," yet.
+'Gems of War' is property and trademark of [Infinity Plus Two](https://en.wikipedia.org/wiki/Infinity_Plus_Two)
+and [505 Games](https://505games.com/). Any endorsement of this project is NOT implied, nor should it be inferred.
 
-## How do I get the XML?
-
-Your only clue is to find where the community "hangs out."
 
 ## Warnings
 
 Just a word of caution: Here be Dragons! And *you are* ***crunchy*** ... and taste good with ketchup.
 
+
+## How do I get all the data?
+
+We assume you can already get the XML/JSON/whatever you need... if you still have to ask, you're "not far enough," yet.
+
+Your best clue is to find where the community "hangs out."
+
+
 ### Credits
 
-For our community icon, we respectably thank the [Reddit Gems of War Community](https://www.reddit.com/r/GemsofWar/)
+Our community icon comes from the [Reddit Gems of War Community](https://www.reddit.com/r/GemsofWar/).
